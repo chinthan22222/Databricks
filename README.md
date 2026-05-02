@@ -46,9 +46,9 @@ Databricks/
     │   ├── 01_data_ingestion.ipynb    
     │   ├── 02_data_cleaning.ipynb      
     │   ├── 03_business_logic.ipynb
-    |   ├── 04_joins
-    |   ├── 05_analysis
-    |   ├── 06_union 
+    │   ├── 04_joins
+    │   ├── 05_analysis
+    │   ├── 06_union 
     │   └── 07_output.ipynb      
     └── data/                       
 ```
