@@ -43,11 +43,14 @@ Raw Data → Bronze → Silver → Gold
 Databricks/
 └── hr_project/
     ├── notebooks/
-    │   ├── 01_data_ingestion.ipynb      # Connects to source systems and loads Bronze data
-    │   ├── 02_data_cleaning.ipynb       # Transforms Bronze to Silver (cleansed data)
-    │   ├── 03_business_logic.ipynb      # Transforms Silver to Gold (aggregated data)
-    │   └── 07_output.ipynb              # Final reporting, visualizations, or data exports
-    └── data/                            # Sample data schemas 
+    │   ├── 01_data_ingestion.ipynb    
+    │   ├── 02_data_cleaning.ipynb      
+    │   ├── 03_business_logic.ipynb
+    |   ├── 04_joins
+    |   ├── 05_analysis
+    |   ├── 06_union 
+    │   └── 07_output.ipynb      
+    └── data/                       
 ```
 ---
 
