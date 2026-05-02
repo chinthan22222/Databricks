@@ -1,0 +1,8 @@
+id,name,dept,salary,join_date,gender,age,is_active,bonus,rating
+1,Alice,Engineering,95000,2021-03-15,F,29,True,9500,4
+2,Bob,Marketing,72000,2019-07-01,M,35,True,7200,3
+3,Carol,Engineering,88000,2020-11-20,F,31,False,8800,5
+4,David,HR,61000,2022-01-10,M,27,True,6100,4
+5,Eve,Marketing,79000,2018-05-25,F,38,True,7900,4
+6,Frank,Engineering,102000,2017-09-30,M,42,False,10200,5
+7,Grace,HR,58000,2023-02-14,F,24,True,5800,3

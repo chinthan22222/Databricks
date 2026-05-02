@@ -1,0 +1,26 @@
+[
+    {
+        "dept": "Engineering",
+        "location": "New York",
+        "manager": "Sara",
+        "budget": 500000
+    },
+    {
+        "dept": "Marketing",
+        "location": "Chicago",
+        "manager": "Tom",
+        "budget": 300000
+    },
+    {
+        "dept": "HR",
+        "location": "Austin",
+        "manager": "Asha",
+        "budget": 200000
+    },
+    {
+        "dept": "Finance",
+        "location": "Dallas",
+        "manager": "Leo",
+        "budget": 400000
+    }
+]
