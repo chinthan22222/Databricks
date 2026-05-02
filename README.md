@@ -31,7 +31,7 @@ Raw Data → Bronze → Silver → Gold
 - employees_all_clean (cleaned and transformed employee + new hired data)
 
 ### Gold Layer (Business Outputs)
-- final_report (employees_gold) (fully enriched employee dataset)  
+- final_report & employees_gold (fully enriched employee dataset)  
 - dept_summary (aggregated department metrics)  
 - partitioned_report (final data partitioned by department)
 
